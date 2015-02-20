@@ -1,1 +1,1 @@
-app.showInitialPage();
+app.gamePage(8);
